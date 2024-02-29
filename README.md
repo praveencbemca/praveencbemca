@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi there! I'm Praveen Prabhakaran, a dedicated Fullstack Developer with expertise in Python, Django, ReactJS, Next.js and TailwindCSS. I specialize in creating impactful digital solutions that address complex challenges with precision and creativity. With a keen eye for detail and a knack for problem-solving, I'm passionate about crafting intuitive and user-centric applications.
+
+💻 I'm committed to continuous learning and staying updated with the latest industry trends. Whether it's exploring new technologies, contributing to open-source projects, or collaborating with fellow developers, I'm always eager to expand my skills and contribute to meaningful projects. Let's work together to build innovative solutions that make a difference!
