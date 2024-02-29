@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionate Full-Stack Developer.</h3>
 <p align="left"> I specialize in crafting robust web applications using Python, Django, ReactJS, and Next.js. With a keen eye for detail and a knack for problem-solving, I thrive on turning complex challenges into elegant solutions that drive real-world impact.</p>
 <b>Backend: </b>
-<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<table border="0" cellspacing="0" cellpadding="0"  style="border: none;">
   <tr>
     <td>
       <img src="https://skillicons.dev/icons?i=python" alt="backend" />
