@@ -18,9 +18,16 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionate Full-Stack Developer.</h3>
 <p align="left"> I specialize in crafting robust web applications using Python, Django, ReactJS, and Next.js. With a keen eye for detail and a knack for problem-solving, I thrive on turning complex challenges into elegant solutions that drive real-world impact.</p>
 <b>Backend: </b>
-<table border="0"><tr><td><img src="https://skillicons.dev/icons?i=python" alt="backend" />
-Python</td><td><img src="https://skillicons.dev/icons?i=django" alt="backend" />
-Django</td><td><img src="https://skillicons.dev/icons?i=postgresql" alt="backend" />
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python" alt="backend" />
+      <div>Python</div>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django" alt="backend" />Django</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgresql" alt="backend" />
 PostgreSQL</td><td><img src="https://skillicons.dev/icons?i=mysql" alt="backend" />
 MySQL</td><td><img src="https://skillicons.dev/icons?i=mongodb" alt="backend" />
 MongoDB</td><td><img src="https://skillicons.dev/icons?i=elasticsearch" alt="backend" />
