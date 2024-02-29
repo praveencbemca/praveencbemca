@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </section>
 
 <b>Backend: </b>
-<table border="0" cellspacing="0" cellpadding="0"  style="border: none; border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0"  style="border: none; border-collapse: collapse;"  markdown="1">
   <tr style="border: 0px;">
     <td>
       <img src="https://skillicons.dev/icons?i=python" alt="backend" />
