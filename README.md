@@ -62,7 +62,7 @@ Businesses struggle with:
 
 ### Infrastructure
 
-* Docker, NGINX, AWS, Azure, Linux
+* Docker, NGINX, AWS, Linux
 
 ---
 
@@ -93,4 +93,3 @@ Every system is designed to:
   </a>
 </p>
 
----
