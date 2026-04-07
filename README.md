@@ -94,7 +94,3 @@ Every system is designed to:
 </p>
 
 ---
-
-<p align="center">
-  <b>Building systems that businesses rely on.</b>
-</p>
