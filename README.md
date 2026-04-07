@@ -1,127 +1,100 @@
+<h1 align="center">🚀 Praveen Prabhakaran</h1>
+<h3 align="center">AI Automation Engineer | Go + Python | Backend Systems Architect</h3>
 
-<!--
-**praveencbemca/praveencbemca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I build <b>AI-powered backend systems</b> that automate workflows, reduce manual operations, and improve business efficiency.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+⚡ AI + Automation | 🧠 Backend Systems | 🚀 Production-ready architecture
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-<h1 align="center">Hi 👋, I'm Praveen Prabhakaran</h1>
-<h3 align="center">A Passionate Full-Stack Developer.</h3>
-<p align="left"> I specialize in crafting robust web applications using Python, Django, ReactJS, Next.js and TailwindCSS. With a keen eye for detail and a knack for problem-solving, I thrive on turning complex challenges into elegant solutions that drive real-world impact.</p>
+## 🧠 What I Solve
 
-<b>Backend: </b>
-<table border="0" cellspacing="0" cellpadding="0"  style="border: none; border-collapse: collapse;"  markdown="1">
-  <tr style="border: 0px;">
-    <td>
-      <img src="https://skillicons.dev/icons?i=python" alt="python" />
-      <div>Python</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=django" alt="django" />
-      <div>Django</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" /> 
-      <div>PostgreSQL</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /> 
-      <div>MySQL</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" /> 
-      <div>MongoDB</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" /> 
-      <div>Elasticsearch</div>
-    </td>
-  </tr>
-</table>
-<b>Frontend: </b>
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react" alt="reactjs" /> 
-      <div>ReactJS</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" /> 
-      <div>NextJS</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" /> 
-      <div>Typescript</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" /> 
-      <div>TailwindCSS</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=redux" alt="redux" /> 
-      <div>Redux</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" /> 
-      <div>pnpm</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" /> 
-      <div>yarn</div>
-    </td>
-  </tr>
-</table>
-<b>Deployment: </b>
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws" alt="aws" /> 
-      <div>AWS</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=azure" alt="azure" /> 
-      <div>Azure</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" /> 
-      <div>Ubuntu</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" /> 
-      <div>NGINX</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker" alt="docker" /> 
-      <div>Docker</div>
-    </td>
-  </tr>
-</table>
-<b>Others: </b>
-<table border="0">
-  <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=github" alt="github" /> 
-      <div>Github</div>
-    </td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=bitbucket" alt="bitbucket" /> 
-      <div>Bitbucket</div>
-    </td>
-  </tr>
-</table>
+Businesses struggle with:
 
-<h3 align="left">Connect with me:</h3>
+* Slow response to leads
+* Manual repetitive workflows
+* Inefficient customer communication
+
+👉 I design systems that solve these using <b>AI + scalable backend architecture</b>
+
+---
+
+## 🚀 What I Build
+
+### 🤖 AI-Powered Systems
+
+* Intelligent lead response & follow-up automation
+* AI customer support agents
+* Context-aware messaging systems
+
+### ⚡ Backend & Automation
+
+* High-performance APIs using Go
+* Event-driven workflow engines
+* Queue-based processing systems (Redis, workers)
+
+### 🏗️ Scalable SaaS Systems
+
+* Multi-tenant backend architecture
+* API-first systems
+* Production-ready deployments
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Backend
+
+* Go (performance, concurrency, system design)
+* Python (AI, LLM orchestration, automation)
+
+### Data & Processing
+
+* PostgreSQL, Redis, Elasticsearch
+
+### Frontend (when needed)
+
+* React, Next.js, TypeScript
+
+### Infrastructure
+
+* Docker, NGINX, AWS, Azure, Linux
+
+---
+
+## 🔬 Current Focus
+
+* 🚀 AI Lead Conversion System
+* ⚡ Workflow Automation Engine (Go)
+* 🎙️ AI Voice Agent with emotion-aware responses
+
+---
+
+## 💼 Business Perspective
+
+Every system is designed to:
+
+* Save operational time
+* Reduce manual effort
+* Improve response speed
+* Increase conversion potential
+
+---
+
+## 📫 Contact
+
 <p align="left">
-  <a href="mailto:praveencbemca@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>  
-<br />
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=praveencbemca&style=for-the-badge&label=Profile%20views&color=0e75b6" alt="praveencbemca" /> </p>
+  <a href="mailto:praveencbemca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Building systems that businesses rely on.</b>
+</p>
